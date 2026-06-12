@@ -37,7 +37,7 @@
 |--------|--------------------|
 | **Web Application** | Burp Suite, OWASP Top 10, SQLi, XSS, IDOR |
 | **Network Recon** | Nmap, Wireshark, passive OSINT, subdomain enum |
-| **Scripting & Automation** | Python, Bash |
+| **Scripting & Automation** | Python, Java, C, SQL, Bash |
 | **Cryptography** | ECC, RSA, ElGamal, Schnorr, Sponge functions |
 | **Operating Systems** | Linux internals, concurrency, privilege escalation |
 
